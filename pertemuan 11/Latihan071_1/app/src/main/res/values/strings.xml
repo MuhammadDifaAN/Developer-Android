@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan 07.1_1</string>
+    <string name="ready_to_start">I am ready to start work!</string>
+    <string name="starttask">Start Task</string>
+    <string name="napping">"Napping…"</string>
+</resources>
